@@ -20,6 +20,6 @@ profile-chatbot
 
 react と firebase を使用。firebase と連携することで、chatbot 内の内容変更を容易にしました。
 
-### `app URL'
+### 'app URL'
 
 https://profile-chatbot-app.firebaseapp.com
