@@ -55,15 +55,3 @@ body {
   justify-content: flex-end;
   padding-right: 0 !important;
 }
-
-.question__title {
-  font-size: 1.25rem;
-  font-weight: 600;
-  margin: 0 0 1rem 0;
-}
-
-.question__description {
-  font-size: 1rem;
-  letter-spacing: 0.125rem;
-  line-height: 1.7;
-}

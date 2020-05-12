@@ -1,7 +1,7 @@
 import React from 'react';
 import './assets/styles/style.css';
 import { AnswersList, Chats } from './components/index';
-import FormDialog from './Forms/FormDialog';
+import FormDialog from './components/FormDialog';
 import { db } from './firebase/index';
 
 export default class App extends React.Component {
