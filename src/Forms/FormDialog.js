@@ -51,7 +51,7 @@ export default class FormDialog extends React.Component {
     };
 
     const url =
-      'https://hooks.slack.com/services/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';
+      'https://hooks.slack.com/services/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';
 
     fetch(url, {
       method: 'POST',
