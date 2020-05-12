@@ -23,14 +23,14 @@ body {
   transform: translate(-50%, -50%);
 }
 
-.c-grid__answer {
+.grid__answer {
   display: flex;
   flex-flow: column;
   justify-content: flex-end;
   height: 198px;
 }
 
-.p-chat__bubble {
+.chat__bubble {
   background: #93ca82;
   border-radius: 4px;
   color: #fff;
@@ -42,27 +42,27 @@ body {
   width: auto;
 }
 
-.p-chat__row {
+.chat__row {
   display: flex;
   flex-direction: row;
   justify-content: flex-start;
   padding-right: 0 !important;
 }
 
-.p-chat__reverse {
+.chat__reverse {
   display: flex;
   flex-direction: row-reverse;
   justify-content: flex-end;
   padding-right: 0 !important;
 }
 
-.p-question__title {
+.question__title {
   font-size: 1.25rem;
   font-weight: 600;
   margin: 0 0 1rem 0;
 }
 
-.p-question__description {
+.question__description {
   font-size: 1rem;
   letter-spacing: 0.125rem;
   line-height: 1.7;
